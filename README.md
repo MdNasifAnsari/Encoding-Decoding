@@ -1,4 +1,4 @@
-# 🔐 Coding-Decoding Application
+# 🔐 Encoding-Decoding Application
 
 A Python-based command-line application that transforms text using custom character-shifting, text-reversal, and random-character techniques.
 
